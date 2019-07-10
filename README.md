@@ -1,4 +1,4 @@
-# android
+# android app 开发
 项目所需技术：
 1.android activity。 
 2.对用户输入数据的处理。
