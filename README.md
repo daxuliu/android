@@ -7,6 +7,7 @@ Menu --分为about, Training, Mindset, Bolg, Contact Me, Account,几个子菜单
 About--类似于homepage也是信息的展示
 Online Starter Form --要求用户输入个人信息
 Online Training--介绍训练的内容 提供不同训练方案的选择功能
+Blog-- 展示不同的文章以及对应的封面 提供按照目录，文章检索功能
 项目所需技术：
 1.android activity。 
 2.对用户输入数据的处理。
