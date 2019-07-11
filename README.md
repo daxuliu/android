@@ -13,7 +13,7 @@ Life Coaching--
 Categories--Business, Fitness, Mindset, Mindset&Emoton, Nutrition, Personal Development, Productivity ,Wealth&Lifestyle
 Contact Me--提供输入框让用户输入信息
 开发模块划分：
-1--文字，图片，按钮，输入框，菜单栏的布局以及相应的颜色，大小 形状的设置
+1--文字，图片，按钮，输入框，菜单栏的布局以及相应的颜色，大小 形状的设置(个人觉得这个是主要难点。。。。)
 2--模块一的控件的实例化操作，以及对用户输入，滑动，点击等操作的响应动画
 3--将获取到的用户信息通过网络传输到指定邮箱
 4--blog的检索功能（单单一个blog工作量就不小，涉及到文章的存储，检索，图片的加载，总不能都放在app本地。。。应该还需要做云服务器端）
